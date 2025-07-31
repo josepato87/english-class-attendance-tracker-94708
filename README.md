@@ -1,1 +1,3 @@
-# english-class-attendance-tracker-94708
+# Project Repository
+
+This is the initial README file for the project.
